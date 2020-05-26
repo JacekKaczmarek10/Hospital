@@ -3,6 +3,10 @@ Java web application in Spring and Hibernate frameworks.
 
 How to run this:
 
-On Widows 10
+Import sql files to database e.g MySQL Workbench.
 
-Text in progess
+Import project as maven project to IDE e.g Eclipse.
+
+Run imported project on server.
+
+Now you should be able to use Http methods from project.
