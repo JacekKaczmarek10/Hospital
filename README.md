@@ -7,6 +7,8 @@ How to run this:
 
 Import sql files to database e.g MySQL Workbench.
 
+(here is example how to do that https://www.youtube.com/watch?v=Jvul-wr-_Bg)
+
 Import project as maven project to IDE e.g Eclipse.
 
 Run imported project on server.
